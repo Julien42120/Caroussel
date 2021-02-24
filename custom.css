@@ -1,0 +1,17 @@
+.w3-container{
+    display:flex ;
+    justify-content: center;
+    flex-direction: row;
+    height: 40vw;
+    margin-top: 10px;
+   
+}
+
+.w3-container img{
+    height: 40vw;
+}
+
+.button {
+    text-align: center;
+    margin-top: 5vw;
+}
